@@ -15,7 +15,7 @@
   <a href="https://plisio.net/donate/uTXSR0Q1">
   <img src="https://img.shields.io/badge/Donate-Crypto-FF4D8D?style=for-the-badge" alt="Donate">
   </a>
-  <img src="https://img.shields.io/github/downloads/Arianlavi/cs2armory/v1.0.0/CS2Armory.zip?style=for-the-badge&label=Downloads&color=FFC107" alt="Downloads">
+  <img src="https://img.shields.io/github/downloads-asset/Arianlavi/cs2armory/CS2Armory.zip/v1.0.0?style=for-the-badge&label=Downloads&color=FFC107" alt="Downloads">
 
 </p>
 
