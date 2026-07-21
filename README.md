@@ -12,7 +12,11 @@
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge" alt="Windows">
   <img src="https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/Donate-Crypto-6c47ff?style=for-the-badge" alt="Donate">
+  <a href="https://plisio.net/donate/uTXSR0Q1">
+  <img src="https://img.shields.io/badge/Donate-Crypto-FF4D8D?style=for-the-badge" alt="Donate">
+  </a>
+  <img src="https://img.shields.io/github/downloads/Arianlavi/cs2armory/v1.0.0/CS2Armory.zip?style=for-the-badge&label=Downloads&color=FFC107" alt="Downloads">
+
 </p>
 
 <p align="center">
